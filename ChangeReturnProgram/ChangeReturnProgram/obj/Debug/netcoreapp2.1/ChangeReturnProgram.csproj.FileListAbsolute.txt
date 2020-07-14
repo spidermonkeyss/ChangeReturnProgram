@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\bin\Debug\netcoreapp2.1\ChangeReturnProgram.deps.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\bin\Debug\netcoreapp2.1\ChangeReturnProgram.runtimeconfig.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\bin\Debug\netcoreapp2.1\ChangeReturnProgram.runtimeconfig.dev.json
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\bin\Debug\netcoreapp2.1\ChangeReturnProgram.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\bin\Debug\netcoreapp2.1\ChangeReturnProgram.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.AssemblyInfo.cs
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.dll
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ChangeReturnProgram\ChangeReturnProgram\obj\Debug\netcoreapp2.1\ChangeReturnProgram.pdb
